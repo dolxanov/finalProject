@@ -1,1 +1,1 @@
-# finalProject
+# ecommerce-shop-starter
